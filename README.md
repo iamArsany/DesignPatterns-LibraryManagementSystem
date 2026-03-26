@@ -1,6 +1,6 @@
 # Library Management System (Refactored)
 
-This project is a refactored version of a flat Library Management System, now utilizing a decoupled, design-pattern-driven architecture in Java.
+This project is a refactored version of a flat Library Management System, using design-patterns architecture in Java.
 
 ## Getting Started
 
